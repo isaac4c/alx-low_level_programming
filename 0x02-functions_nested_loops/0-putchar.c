@@ -1,9 +1,11 @@
 #include "main.h"
+
 /**
- * main - Entry point
- * description: 'prints_putchar to stdout'
+ * main - Entry point of my code,
+ *
  * Return: always 0
  */
+
 int main(void)
 {
 	_putchar('_');
@@ -16,4 +18,5 @@ int main(void)
 	_putchar('r');
 	_putchar('\n');
 	return (0);
+
 }
